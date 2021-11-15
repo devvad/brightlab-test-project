@@ -1,5 +1,7 @@
 .header { 
+    display: flex;
     background-color: #469F8B;
     max-width: 1440px;
-    min-height: 12opx;
+    min-height: 120px;
+    justify-content: space-between;
 }
