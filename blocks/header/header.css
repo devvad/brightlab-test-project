@@ -4,4 +4,6 @@
     max-width: 1440px;
     min-height: 120px;
     justify-content: space-between;
+    margin: 0;
+    padding: 0;
 }
