@@ -63,3 +63,5 @@
 @import url(../blocks/footer/__button/_facebook/footer__button_facebook.css);
 @import url(../blocks/footer/__button/_google/footer__button_google.css);
 @import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__input/footer__input.css);
