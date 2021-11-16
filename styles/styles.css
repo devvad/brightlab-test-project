@@ -47,3 +47,5 @@
 @import url(../blocks/facts/facts.css);
 @import url(../blocks/facts/__figcaption/facts__figcaption.css);
 @import url(../blocks/facts/__fact/facts__fact.css);
+
+@import url(../blocks/reviews/reviews.css);
