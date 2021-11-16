@@ -28,7 +28,14 @@
 
 @import url(../blocks/chef/chef.css);
 @import url(../blocks/chef/__name/chef__name.css);
-
+@import url(../blocks/chef/__description/chef__description.css);
+@import url(../blocks/chef/__dishes/chef__dishes.css);
+@import url(../blocks/chef/__image/chef__image.css);
+@import url(../blocks/chef/__image/_big/chef__image_big.css);
+@import url(../blocks/chef/__image/_little/chef__image_little.css);
+@import url(../blocks/chef/__title/chef__title.css);
+@import url(../blocks/chef/__paragraph/chef__paragraph.css);
+@import url(../blocks/chef/__card/chef__card.css);
 
 @import url(../blocks/personal/personal.css);
 @import url(../blocks/personal/__title/personal__title.css);

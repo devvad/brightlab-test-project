@@ -1,3 +1,8 @@
 .chef__name {
-    
+    margin: 0;
+    margin-bottom: 20px;
+    padding: 0;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 135%;
 }

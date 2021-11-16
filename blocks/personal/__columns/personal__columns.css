@@ -1,7 +1,7 @@
 .personal__columns {
     display: grid;
-    grid-template-columns: repeat(2, auto);
-    column-gap: 25px;
+    grid-template-columns: 541px auto;
+    column-gap: 27px;
     margin-bottom: 60px;
 }
 
