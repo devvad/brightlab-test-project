@@ -1,0 +1,6 @@
+.work__point {
+	display: grid;
+  grid-template-columns: repeat(2, auto);
+  column-gap: 100px;
+	row-gap: 0;
+}
