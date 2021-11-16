@@ -1,3 +1,10 @@
 .work__paragraph {
-	
+	font-weight: 900;
+    font-size: 16px;
+    line-height: 135%;
+    width: 450px;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #898989;;
 }

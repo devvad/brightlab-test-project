@@ -1,3 +1,8 @@
 .work__point-title {
-	
+	font-weight: bold;
+    font-size: 24px;
+    line-height: 135%;
+    margin-left: 0;
+    margin: 0;
+    padding-bottom: 8px;
 }
