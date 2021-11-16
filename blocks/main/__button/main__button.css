@@ -1,0 +1,13 @@
+.main__button {
+  border: 0;
+  background-color: #2C947D;
+  align-items: center;
+  color: white;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 22px;
+  width: 246px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 168px;
+}
