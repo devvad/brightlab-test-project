@@ -49,3 +49,10 @@
 @import url(../blocks/facts/__fact/facts__fact.css);
 
 @import url(../blocks/reviews/reviews.css);
+@import url(../blocks/reviews/__content/reviews__content.css);
+@import url(../blocks/reviews/__card/reviews__card.css);
+@import url(../blocks/reviews/__name/reviews__name.css);
+@import url(../blocks/reviews/__text/reviews__text.css);
+@import url(../blocks/reviews/__container/reviews__container.css);
+@import url(../blocks/reviews/__title/reviews__title.css);
+
