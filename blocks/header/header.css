@@ -1,7 +1,7 @@
-.header { 
+.header {
     display: flex;
     background-color: #469F8B;
-    max-width: 1440px;
+    width: auto;
     min-height: 120px;
     justify-content: space-between;
     margin: 0;
