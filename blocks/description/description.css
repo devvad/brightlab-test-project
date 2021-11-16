@@ -1,0 +1,6 @@
+.description {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 96px;
+    margin: 120px 168px;
+}

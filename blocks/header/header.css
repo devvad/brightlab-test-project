@@ -1,9 +1,9 @@
 .header {
     display: flex;
+		justify-content: space-between;
     background-color: #469F8B;
     width: auto;
     min-height: 120px;
-    justify-content: space-between;
     margin: 0;
     padding: 0;
 }
