@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Avenir';
   font-style:  normal;
-  font-weight: 400;
+  font-weight: 500;
   font-display: swap;
   src: url("../fonts/Avenir-Black.woff2") format("woff2"),
        url("../fonts/Avenir-Black.woff") format("woff");
