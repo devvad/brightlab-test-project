@@ -1,3 +1,3 @@
 # brightlab-test-project
 
-Ссылка на проект: https://devvad.github.io/brightlab-test-project/
+Test project of the best intern.
