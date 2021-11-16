@@ -25,3 +25,12 @@
 @import url(../blocks/work/__point-title/work__point-title.css);
 @import url(../blocks/work/__text/work__text.css);
 @import url(../blocks/work/__foto/work__foto.css);
+
+@import url(../blocks/chef/chef.css);
+@import url(../blocks/chef/__name/chef__name.css);
+
+
+@import url(../blocks/personal/personal.css);
+@import url(../blocks/personal/__title/personal__title.css);
+@import url(../blocks/personal/__columns/personal__columns.css);
+@import url(../blocks/personal/__chef/personal__chef.css);

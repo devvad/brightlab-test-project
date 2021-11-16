@@ -1,0 +1,10 @@
+.personal__columns {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    column-gap: 25px;
+    margin-bottom: 60px;
+}
+
+.personal__columns:last-child {
+    margin: 0;
+}
