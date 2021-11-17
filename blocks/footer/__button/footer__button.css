@@ -8,6 +8,8 @@
     width: 300px;
     height: 40px;
     border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .footer__button:hover {

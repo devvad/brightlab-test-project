@@ -62,6 +62,16 @@
 @import url(../blocks/footer/__button/footer__button.css);
 @import url(../blocks/footer/__button/_facebook/footer__button_facebook.css);
 @import url(../blocks/footer/__button/_google/footer__button_google.css);
+@import url(../blocks/footer/__button/_log-in/footer__button_log-in.css);
+@import url(../blocks/footer/__button/_sign-up/footer__button_sign-up.css);
 @import url(../blocks/footer/__icon/footer__icon.css);
 @import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__form/footer__form.css);
 @import url(../blocks/footer/__input/footer__input.css);
+@import url(../blocks/footer/__input/_last/footer__input_last.css);
+@import url(../blocks/footer/__password/footer__password.css);
+@import url(../blocks/footer/__reg/footer__reg.css);
+@import url(../blocks/footer/__reg/_span/footer__reg_span.css);
+@import url(../blocks/footer/__choice/footer__choice.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__or/footer__or.css);
